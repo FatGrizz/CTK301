@@ -1,0 +1,53 @@
+/* This is a comment. */
+/* CSS */
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+ color: #00ff00;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+h1 {
+  color: #7714DB;
+  background-color:#F91FCA;
+}
+ header {
+  color: #F91FCA;
+  background-color: #7714DB;
+}
+/*
+nav {
+  color: #000000;
+}
+*/
+main {
+  color: #F91FCA;
+}
+footer {
+  color: #ffffff;
+  background-color: #ff0000;
+}
+
+#divexample {
+  color: #7714DB;
+  background-color:#F91FCA;
+}
+
+.spanstyle {
+  color: #7714DB;
+}
+
+#specialid {
+  color: #7714DB;
+  background-color:#F91FCA;
+}
+
+.specialp {
+  color: #F91FCA;
+  background-color: #7714DB;
+}
