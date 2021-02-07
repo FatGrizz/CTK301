@@ -1,0 +1,95 @@
+body {
+  background-color: #cccccc;
+  background-image: url(87969308_10156637449361126_3206214922077732864_o.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+main {
+  background-color: #0000ff;
+}
+
+h1 {
+  color: #ffffff;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.customtext {
+color: #ffffff;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+font-weight: bold;
+font-size: 24px;font-family:
+}
+
+.fontcombined {
+  color: #ffffff;
+  font: bold 20px Arial, Helvetica, sans-serif;
+}
+
+.imgbox {
+  color: #ffffff;
+  border: 5px solid #ff0000;
+  padding: 10px;
+  background-color: #ffffff;
+  margin: 20px 20px 0 0;
+  width: 200px;
+}
+
+.boxmodel {
+  color: #ffffff;
+  border: 2px solid #0000ff;
+padding: 20px 20px 20px 20px;
+margin: 10px 10px 10px 10px;
+}
+
+.otherbox {
+  color: #ffffff;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid #00ff00;
+}
+
+.zeroout {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.pwidth {
+  color: #ffffff;
+  border: 1px solid #ff0000;
+  width: 100px;
+  padding: 10px;
+}
+
+.textright {
+  color: #ffffff;
+text-align: right;
+}
+
+.textleft {
+  color: #ffffff;
+text-align: left;
+}
+
+.textcenter {
+  color: #ffffff;
+text-align: center;
+}
+
+.textjustify {
+  color: #ffffff;
+text-align: justify;
+}
+
+.textspace {
+  color: #ffffff;
+letter-spacing: 20px;
+}
+
+.textheight {
+  color: #ffffff;
+line-height: 20px;
+}
