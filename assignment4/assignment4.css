@@ -1,0 +1,94 @@
+/* This is a comment. */
+/* CSS */
+body {
+background-color: #cccccc;
+background-image: url(IMG_8079.jpg);
+background-repeat: no-repeat;
+background-position: center;
+width: 1000px;
+}
+
+header {
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  color: #FF940A;
+}
+
+nav {
+  font-family: sans-serif;
+}
+
+main {
+  color: #F91FCA;
+  font-family: sans-serif;
+}
+
+footer {
+  font-family: sans-serif;
+  color: #ffffff;
+  background-color: #ff0000;
+}
+
+.imgbox {
+    color: #ffffff;
+    border: 5px solid #000000;
+    padding: 10px;
+    background-color: #ffffff;
+    margin: 20px 20px 0 0;
+    width: 1000px;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.textjustify {
+  text-align: justify;
+}
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+ color: #00ff00;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+h1 {
+  color: #7714DB;
+  background-color:#F91FCA;
+}
+/*
+ header {
+  color: #F91FCA;
+  background-color: #7714DB;
+}
+
+/*
+nav {
+  color: #000000;
+}
+*/
+
+#divexample {
+  color: #7714DB;
+  background-color:#F91FCA;
+}
+
+.spanstyle {
+  color: #7714DB;
+}
+
+#specialid {
+  color: #7714DB;
+  background-color:#F91FCA;
+}
+
+.specialp {
+  color: #F91FCA;
+  background-color: #7714DB;
+}
