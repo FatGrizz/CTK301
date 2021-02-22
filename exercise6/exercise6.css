@@ -1,0 +1,97 @@
+body {
+  color: #ffffff;
+  background-color: #999999;
+  background-image: url(nexus2cee_Ghastly-Galaxy_crop.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 960px;
+}
+
+#wrapper {
+  margin: 1em auto;
+  padding: 1em;
+  width: 960px;
+  border: 1px solid #ff0000;
+  /*background-color: #ffffff;*/
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 100px auto 75px;
+}
+
+.floatimage {
+  width: 450px;
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+.p3 {
+  clear: both;
+}
+
+header {
+  grid-column: span 12;
+  border: 1px solid red;
+}
+
+nav {
+  grid-column: span 3;
+  border: 1px solid red;
+}
+
+/* unordered list with no bullets */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* horizontal with float */
+nav li {
+  float: left;
+  padding: 10px;
+  border: 1px solid #000000;
+  margin: 10px;
+}
+
+main {
+  clear: both;
+  grid-column: span 9;
+  border: 1px solid red;
+}
+
+footer {
+  grid-column: span 12;
+  border: 1px solid red;
+}
+/* horizontal with inline */
+nav li {
+  display: inline;
+  padding: 10px;
+  border: 1px solid #000000;
+  margin: 10px;
+}
+
+/* horizontal with inline-block */
+nav li {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #000000;
+  margin: 10px;
+  width: 150px;
+}
+
+a:link {
+  color: #ffffff;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+a:active {
+  color: #ffffff;
+}
